@@ -41,4 +41,5 @@
   </languages>
   <commonCommands>CommonCommand.НайтиТоварПоНазванию</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПродажаТовара</documents>
 </mdclass:Configuration>
